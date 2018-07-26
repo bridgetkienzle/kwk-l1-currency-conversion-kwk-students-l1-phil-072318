@@ -7,7 +7,7 @@
 #   puts "it's worth #{money} euro"
 # end
 
-usd_eur()
+# usd_eur()
 
 def eur_usd
   puts "How much money are you converting?"
