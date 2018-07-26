@@ -11,7 +11,7 @@
 
 def eur_usd
   puts "How much money are you converting?"
-    cash.to_i = gets.chomp
+  gets.chomp = cash.to_i
   money.to_f = cash.to_f % 1.20
     puts "it's worth #{money} usd"
 end
